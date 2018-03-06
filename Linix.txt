@@ -1,0 +1,4 @@
+linux vs Unix.
+Linux is an open source, free to use operating system widely used for computer hardware and software, game development, tablet PCS, mainframes etc.
+Unix is an operating system commonly used in internet servers, workstations and PCs by Solaris, Intel, HP etc.
+lax.
